@@ -289,7 +289,7 @@ class Arena {
                         $api->setLine($p, 6, "   ");
                         $api->setLine($p, 7, "§fMode: §aSolo");
                         $api->setLine($p, 8, "      ");
-                        $api->setLine($p, 9, "§eMasApip");
+                        $api->setLine($p, 9, "§e@ElCrazyProYT");
                         $api->getObjectiveName($p);
                     }
                     return;
@@ -317,7 +317,7 @@ class Arena {
                     $api->setLine($p, 8, "§fMap: §a{$this->SWname}");
                     $api->setLine($p, 9, "§fMode: §aNormal");
                     $api->setLine($p, 10, "      ");
-                    $api->setLine($p, 11, "§eMasApip");
+                    $api->setLine($p, 11, "§e@ElCrazyProYT");
                     $api->getObjectiveName($p);
                 }
                 foreach ($this->getPlayers() as $p) {
@@ -356,7 +356,7 @@ class Arena {
                     $api->setLine($p, 8, "§fMap: §a{$this->SWname}");
                     $api->setLine($p, 9, "§fMode: §aNormal");
                     $api->setLine($p, 10, "      ");
-                    $api->setLine($p, 11, "§eMasApip");
+                    $api->setLine($p, 11, "§e@ElCrazyProYT");
                     $api->getObjectiveName($p);
                 }
 
@@ -380,7 +380,7 @@ class Arena {
                         $api->setLine($p, 8, "§fMap: §a{$this->SWname}");
                         $api->setLine($p, 9, "§fMode: §aNormal");
                         $api->setLine($p, 10, "      ");
-                        $api->setLine($p, 11, "§eMasApip");
+                        $api->setLine($p, 11, "§e@ElCrazyProYT");
                         $api->getObjectiveName($p);
                     }
                 } else {
